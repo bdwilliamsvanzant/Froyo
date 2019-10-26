@@ -16,6 +16,7 @@ comments: true
 # NEW PRODUCT
 ## The Twist of Healthy Yogurt
 This website template has been designed by freewebsitetemplates.com for you, for free. You can replace all this text with your own text.
+![](images/yogurt.jpg)
 
 </div>
 <div>
@@ -38,7 +39,7 @@ s.setAttribute('data-timestamp', +new Date());
 
 </div>
 
-![](images/yogurt.jpg)
+
 
 </div>
 </div>
