@@ -682,14 +682,14 @@ img {
 }
 #body div.blog .sidebar h1, #body div.singlepost .sidebar h1 {
 	color: #CB3362;
-	font-family: magra-bold-webfont;
-	font-size: 30px;
+	font-family: lato-regular-webfont;
+	font-size: 24px;
 	font-weight: normal;
-	line-height: 30px;
+	line-height: 24px;
 	margin: 0;
-	padding: 42px 0 29px;
+	padding: 34px 0 3px;
 	text-align: center;
-	text-transform: capitalize;
+	text-transform: uppercase;
 }
 #body div.blog .sidebar img, #body div.singlepost .sidebar img {
 	display: block;
