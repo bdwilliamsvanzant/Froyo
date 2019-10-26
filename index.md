@@ -21,7 +21,7 @@ This website template has been designed by freewebsitetemplates.com for you, for
 <image src="images/yogurt.jpg"></image>
 
 
-<div>
+<div style="padding-top: 8rem; margin: auto auto;">
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
