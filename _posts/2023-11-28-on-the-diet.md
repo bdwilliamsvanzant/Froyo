@@ -6,8 +6,8 @@ author: Admin
 published: true
 image: /images/on-diet.png
 ---
-<h1> ON THE DIET</h1>
-<div style="padding: 0;">
+<h2>ON THE DIET</h2>
+<div>
 <span>By Admin on November 28, 2023</span>
 </div>
 <p>You can replace all this text with your own text. You can remove any link to our website from this website template.</p>
