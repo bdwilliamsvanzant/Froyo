@@ -17,6 +17,7 @@ comments: true
 ## The Twist of Healthy Yogurt
 This website template has been designed by freewebsitetemplates.com for you, for free. You can replace all this text with your own text.
 
+</div>
 <div>
 {% if page.comments %}
 <div id="disqus_thread"></div>
@@ -34,7 +35,7 @@ s.setAttribute('data-timestamp', +new Date());
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
-</div>
+
 </div>
 
 ![](images/yogurt.jpg)
