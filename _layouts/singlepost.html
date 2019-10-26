@@ -1,0 +1,16 @@
+{% include head.html %}
+<body>
+	<div id="page">
+		<div id="header">
+			<div>
+				<a href="index.html" class="logo"><img src="{{ site.url }}/images/logo.png" alt=""></a>
+				{% include navbar.html %}
+			</div>
+		</div>
+		<div id="body">
+			{{ content }}
+		</div>
+		{% include foot.html %}
+	</div>
+</body>
+</html>
