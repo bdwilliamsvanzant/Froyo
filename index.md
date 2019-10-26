@@ -17,7 +17,7 @@ comments: true
 ## The Twist of Healthy Yogurt
 This website template has been designed by freewebsitetemplates.com for you, for free. You can replace all this text with your own text.
 
-![](images/yogurt.jpg)
+<image src="images/yogurt.jpg"></image>
 
 </div>
 <div>
