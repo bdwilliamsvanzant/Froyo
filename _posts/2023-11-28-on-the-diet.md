@@ -6,7 +6,7 @@ author: Admin
 published: true
 image: /images/on-diet.png
 ---
-<h2> ON THE DIET</h2>
+<h1> ON THE DIET</h1>
 <div style="padding: 0;">
 <span>By Admin on November 28, 2023</span>
 </div>
